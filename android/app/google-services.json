@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598655839150",
+    "project_id": "braindiseasedetector",
+    "storage_bucket": "braindiseasedetector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598655839150:android:4f42e94dc80e49ca37763f",
+        "android_client_info": {
+          "package_name": "com.brain_diseases_detector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb4suEO2D5Pq4EZwEyFRB_43LvxRTjMZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
